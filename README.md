@@ -6,7 +6,7 @@ I'm a Backend developper with experience making cloud services and tools, curren
 
 My main Tech Stack: C#, .Net, SQL, RESTful, shell, Azure, Unity3D, Python
 
-I'm currently open to professional offers, you can easily reach me through [Linkedin](https://www.linkedin.com/in/william-lejeune/)
+I'm currently open to professional offers, international or remote, you can easily reach me through [Linkedin](https://www.linkedin.com/in/william-lejeune/)
 
 ### Social Links
 * [Linkedin](https://www.linkedin.com/in/william-lejeune/)
