@@ -2,7 +2,7 @@
 
 Hello from France, I'm William !
 
-I'm a Backend developper with experience making cloud services and tools, currently pursuing his love for Games. 
+I'm a Backend developper with experience making tools and SaaS, currently pursuing his love for Games. 
 
 My main Tech Stack: C#, .Net, SQL, RESTful, shell, Azure, Unity3D, Python
 
